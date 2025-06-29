@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Mohammad Ali Emran, a Mechatronics student currently studying Software Development at 42 Amman.</h4>
+<h4 align="left">I'm Mohammad Ali Emran, a Mechatronics student currently studying Software Development at 42 Amman.</h4
 
 ###
 
