@@ -8,7 +8,7 @@ Hi there! I'm **Mohammad Ali Emran**, a passionate **Mechatronics student** with
 - 🤖 I also work with microcontrollers, programming them for various embedded systems applications
 - 🛠️ I can also design 3D models using **Fusion 360** and **Creo**
 - 🌱 Currently learning **Software development**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername).
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mohammad-ali-emran-826310275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ###
 
