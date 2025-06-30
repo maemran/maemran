@@ -1,15 +1,14 @@
 <h2 align="left">🚀 Who Am I?</h2>
 
 ###
-Hi there! I'm **Mo**, a passionate **computer science student** with a strong interest in **low-level programming and robotics**.
+Hi there! I'm **Mohammad Ali Emran**, a passionate **Mechatronics student** with a strong interest in **low-level programming and robotics**.
 
 - 🎓 Currently studying at **42 Amman**
-- 💻 I enjoy working with **C, Python, and Linux**
-- 🌱 Currently learning **inverse kinematics and concurrency programming**
-- 🧠 Always exploring **algorithms, data structures, and real-time system design**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername) or [GitHub](https://github.com/yourusername)
-- ⚡ Fun fact: I love solving classic CS problems like the **Dining Philosophers** and building custom **shells**!
-<h5 align="left">I'm Mohammad Ali Emran, a Mechatronics student currently studying Software Development at 42 Amman.</h5>
+- 💻 I code in multiple languages: expert in **C**, with a good level in **Python and **Java**
+- 🤖 I also work with microcontrollers, programming them for various embedded systems applications
+- 🛠️ I can also design 3D models using **Fusion 360** and **Creo**.
+- 🌱 Currently learning **Software development**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername).
 
 ###
 
