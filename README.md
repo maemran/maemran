@@ -25,17 +25,19 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" alt="matlab logo"  />
-  <img width="94" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="42" alt="notion logo"  />
-  <img width="94" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
-  <img width="94" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo"  />
-  <img width="94" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="42" alt="slack logo"  />
-  <img width="94" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" alt="matlab logo" />
+<img width="94" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="42" alt="notion logo" />
+<img width="94" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo" />
+<img width="94" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo" />
+<img width="94" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="42" alt="slack logo" />
+<img width="94" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="arduino logo" />
+<img width="94" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Valgrind_logo.png" height="42" alt="valgrind logo" />
 </div>
 
 ###
