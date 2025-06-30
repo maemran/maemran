@@ -6,7 +6,7 @@ Hi there! I'm **Mohammad Ali Emran**, a passionate **Mechatronics student** with
 - 🎓 Currently studying at **42 Amman**
 - 💻 I code in multiple languages: expert in **C**, with a good level in **Python** and **Java**
 - 🤖 I also work with microcontrollers, programming them for various embedded systems applications
-- 🛠️ I can also design 3D models using **Fusion 360** and **Creo**.
+- 🛠️ I can also design 3D models using **Fusion 360** and **Creo**
 - 🌱 Currently learning **Software development**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/yourusername).
 
