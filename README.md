@@ -4,7 +4,7 @@
 Hi there! I'm **Mohammad Ali Emran**, a final-year **Mechatronics Engineering** student at the **University of Jordan**, passionate about the world of **computers** and **programming** in all their applications.
 
 - 🎓 Currently studying **Software development** at **42 Amman**
-- 💻 I code in multiple languages: expert in **C**, with a good level in **Python** and **Java**
+- 💻 I code in multiple languages: expert in **C** and **C++**, with a good level in **Python** and **Java**
 - 🤖 I also work with microcontrollers, programming them for various embedded systems applications
 - 🛠️ I can also design 3D models using **Fusion 360** and **Creo**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/mohammad-ali-emran-826310275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
