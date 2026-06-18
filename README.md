@@ -1,7 +1,7 @@
 <h2 align="left">🚀 Who Am I?</h2>
 
 ###
-Hi there! I'm **Mohammad Ali Emran**, a final-year **Mechatronics Engineering** student at the **University of Jordan**, passionate about the world of **computers** and **programming** in all their applications.
+Hi there! I'm **Mohammad Ali Emran**, a **Mechatronics Engineer** Graduate of **University of Jordan**, passionate about the world of **computers** and **programming** in all their applications.
 
 - 🎓 Currently studying **Software development** at **42 Amman**
 - 💻 I code in multiple languages: expert in **C** and **C++**, with a good level in **Python** and **Java**
